@@ -4,6 +4,6 @@ public class Message {
 
 	public static void main(String args[]) {
 		System.out.println("Say hi to your group mates!");
-		System.out.println("Say hi to your group mates oi mate!");
+		System.out.println("Say hi to your group mates oi mate hihihihi!");
 	}
 }
